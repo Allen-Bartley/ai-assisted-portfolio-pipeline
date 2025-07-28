@@ -12,6 +12,9 @@ Traditional portfolio writing is hard—especially when trying to turn real-worl
 
 You speak. Copilot listens. The portfolio evolves.
 
+## 🦆 The Rubber Duck Connection
+This workflow is inspired by "rubber duck debugging" - the programming practice of explaining code line-by-line to an inanimate object to reveal bugs and logic gaps. I've adapted this concept for technical storytelling: instead of debugging code, I'm "debugging" project narratives by explaining them out loud. The AI becomes an intelligent rubber duck that can structure and polish the explanation while preserving the clarity that comes from verbal articulation.
+
 ## 🔄 Workflow Overview
 
 1. **Narrate project story using Windows voice-to-text**
